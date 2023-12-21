@@ -22,8 +22,8 @@ const Rows = () => {
                   paddingTop={"29px"}
                   sx={{
                      "@media (max-width: 450px)": {
-                        height: "24px",
-                        paddingTop: "12px",
+                        height: "26px",
+                        paddingTop: "8px",
                         width: "20px",
                         fontSize: "10px",
                      },
