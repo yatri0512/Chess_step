@@ -7,7 +7,7 @@ const Files = () => {
          {files.map((f) => {
             return (
                <Box
-                  width="62px"
+                  width="61px"
                   textAlign="center"
                   justifyContent={"center"}
                   sx={{
