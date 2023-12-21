@@ -7,12 +7,12 @@ const Files = () => {
          {files.map((f) => {
             return (
                <Box
-                  width="61px"
+                  width="62px"
                   textAlign="center"
                   justifyContent={"center"}
                   sx={{
                      "@media (max-width: 450px)": {
-                        width: "37px",
+                        width: "36px",
                         fontSize: "10px",
                      },
                   }}>
